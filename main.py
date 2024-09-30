@@ -27,7 +27,7 @@ border = 2
 
 created = 0
 
-rect_surface = pygame.Surface((5000, 5000))
+rect_surface = pygame.Surface((50000, 5000))
 rect_surface.fill((255, 255, 255))
 font = pygame.font.SysFont('Arial', 12)
 
