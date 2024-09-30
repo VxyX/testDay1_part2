@@ -1,6 +1,6 @@
 import pygame
 
-banyakRect = 100
+banyakRect = 500
 # Initializing Pygame
 pygame.init()
 # clock = pygame.time.Clock()
